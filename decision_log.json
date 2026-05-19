@@ -1,16 +1,23 @@
 {
   "niche": {
     "cluster": "tshirt_designs",
-    "raw_score": 432.0,
-    "mentions": 0,
+    "raw_score": 967.0,
+    "mentions": 1,
     "single_word_hits": 0,
     "season_boost": 1.0,
     "world_state_boost": 288,
     "competition_hits": 0,
     "deliverability": 0.6,
-    "final_score": 259.2,
+    "final_score": 580.2,
     "evidence": [
       {
+        "sub": "Parenting",
+        "title": "Teen refuses any type of banded item",
+        "score": 535,
+        "url": "https://reddit.com/r/Parenting/comments/1tgfepy/",
+        "matched_kw": "graphic tee"
+      },
+      {
         "sub": "world_state",
         "title": "trending: shirt",
         "score": 16,
@@ -42,13 +49,6 @@
         "sub": "world_state",
         "title": "trending: design",
         "score": 10,
-        "matched_kw": "tshirt design",
-        "url": "internal://world_state/consensus"
-      },
-      {
-        "sub": "world_state",
-        "title": "trending: sign",
-        "score": 8,
         "matched_kw": "tshirt design",
         "url": "internal://world_state/consensus"
       }
@@ -490,16 +490,23 @@
   "all_ranked": [
     {
       "cluster": "tshirt_designs",
-      "raw_score": 432.0,
-      "mentions": 0,
+      "raw_score": 967.0,
+      "mentions": 1,
       "single_word_hits": 0,
       "season_boost": 1.0,
       "world_state_boost": 288,
       "competition_hits": 0,
       "deliverability": 0.6,
-      "final_score": 259.2,
+      "final_score": 580.2,
       "evidence": [
         {
+          "sub": "Parenting",
+          "title": "Teen refuses any type of banded item",
+          "score": 535,
+          "url": "https://reddit.com/r/Parenting/comments/1tgfepy/",
+          "matched_kw": "graphic tee"
+        },
+        {
           "sub": "world_state",
           "title": "trending: shirt",
           "score": 16,
@@ -531,13 +538,6 @@
           "sub": "world_state",
           "title": "trending: design",
           "score": 10,
-          "matched_kw": "tshirt design",
-          "url": "internal://world_state/consensus"
-        },
-        {
-          "sub": "world_state",
-          "title": "trending: sign",
-          "score": 8,
           "matched_kw": "tshirt design",
           "url": "internal://world_state/consensus"
         }
