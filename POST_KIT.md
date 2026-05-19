@@ -28,8 +28,8 @@ Tap link in bio · $15 instant download
 
 ## Agent's decision rationale (so Jack can audit)
 - Cluster: tshirt_designs
-- Final score: 580.2
-- Raw mention-weighted score: 967.0
-- Mentions across 6 subs: 1
+- Final score: 259.2
+- Raw mention-weighted score: 432.0
+- Mentions across 6 subs: 0
 - Competition penalty hits: 0
 - Deliverability: 0.6
