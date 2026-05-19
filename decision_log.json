@@ -1,29 +1,15 @@
 {
   "niche": {
     "cluster": "tshirt_designs",
-    "raw_score": 435.6,
+    "raw_score": 432.0,
     "mentions": 0,
-    "single_word_hits": 2,
+    "single_word_hits": 0,
     "season_boost": 1.0,
     "world_state_boost": 288,
     "competition_hits": 0,
     "deliverability": 0.6,
-    "final_score": 261.4,
+    "final_score": 259.2,
     "evidence": [
-      {
-        "sub": "printondemand",
-        "title": "Underrated design programs? Not canva, little or creative fabrica!",
-        "score": 8,
-        "url": "https://reddit.com/r/printondemand/comments/1tfechv/",
-        "matched_kw": "~merch"
-      },
-      {
-        "sub": "printondemand",
-        "title": "How to get 1st sell.",
-        "score": 4,
-        "url": "https://reddit.com/r/printondemand/comments/1td4zuy/",
-        "matched_kw": "~tshirt"
-      },
       {
         "sub": "world_state",
         "title": "trending: shirt",
@@ -49,6 +35,20 @@
         "sub": "world_state",
         "title": "trending: shirt",
         "score": 16,
+        "matched_kw": "tshirt design",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: design",
+        "score": 10,
+        "matched_kw": "tshirt design",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: sign",
+        "score": 8,
         "matched_kw": "tshirt design",
         "url": "internal://world_state/consensus"
       }
@@ -490,29 +490,15 @@
   "all_ranked": [
     {
       "cluster": "tshirt_designs",
-      "raw_score": 435.6,
+      "raw_score": 432.0,
       "mentions": 0,
-      "single_word_hits": 2,
+      "single_word_hits": 0,
       "season_boost": 1.0,
       "world_state_boost": 288,
       "competition_hits": 0,
       "deliverability": 0.6,
-      "final_score": 261.4,
+      "final_score": 259.2,
       "evidence": [
-        {
-          "sub": "printondemand",
-          "title": "Underrated design programs? Not canva, little or creative fabrica!",
-          "score": 8,
-          "url": "https://reddit.com/r/printondemand/comments/1tfechv/",
-          "matched_kw": "~merch"
-        },
-        {
-          "sub": "printondemand",
-          "title": "How to get 1st sell.",
-          "score": 4,
-          "url": "https://reddit.com/r/printondemand/comments/1td4zuy/",
-          "matched_kw": "~tshirt"
-        },
         {
           "sub": "world_state",
           "title": "trending: shirt",
@@ -538,6 +524,20 @@
           "sub": "world_state",
           "title": "trending: shirt",
           "score": 16,
+          "matched_kw": "tshirt design",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: design",
+          "score": 10,
+          "matched_kw": "tshirt design",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: sign",
+          "score": 8,
           "matched_kw": "tshirt design",
           "url": "internal://world_state/consensus"
         }
